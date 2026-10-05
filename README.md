@@ -1,3 +1,3 @@
 # CV
 My academic resume.
-Upsated in October, 2026.
+Updated in October, 2026.
