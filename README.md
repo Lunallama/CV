@@ -1,2 +1,3 @@
 # CV
-My academic CV.
+My academic resume.
+Upsated in October, 2026.
